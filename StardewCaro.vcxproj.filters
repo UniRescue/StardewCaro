@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="assets\1vs1button.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\asianmodebutton.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\backgroundasianmode.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\backgroundnormalmode.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\Batdaubutton.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\Caidatbutton.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\Chedokhobutton.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\choitthuongbutton.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\Exitbutton.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\lgbtslime.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\LobbyTheme.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\LuuButton.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\musicbutton.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\normalmodebutton.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\Resumebutton.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\Savebutton.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\Settingsbutton.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\skull.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\soundbutton.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\Startbutton.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\Thoatbutton.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\Tieptucbutton.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\unmusicbutton.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\unsoundbutton.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\whitetslime.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\logo-removebg-preview.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
